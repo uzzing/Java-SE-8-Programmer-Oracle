@@ -1,8 +1,9 @@
 ## OCPJP (Oracle Certified Professional, Java SE 8 Programmer II)
-### 
-<ul>
-  <li>Earned certification credential on <b>2021.09.04</b></li>
-</ul>
+
+![oracle-certified-professional-java-se-8-programmer](https://user-images.githubusercontent.com/83699657/136908903-6407071b-c7a8-4263-b6c9-65c73812d01a.png) - Earned a certification on <b>2021.09.04</b><br>
+
+https://www.credly.com/badges/11645c66-379a-4855-bb08-a4518fe6fb9b/public_url
+
 
 ### 
 > __Objectives__
@@ -20,11 +21,13 @@
   <li>Building Database Applications with JDBC</li>
   <li>Localization</li>
 </ul>
+<br>
+
 
 ##  OCAJP (Oracle Certified Associate, Java SE 8 Programmer I)
-<ul>
-  <li>Earned certification credential on <b>2021.07.17</b></li>
-</ul>
+![oracle-certified-associate-java-se-8-programmer](https://user-images.githubusercontent.com/83699657/136909413-bb0e4a2a-419f-4dd7-876d-3c5ddbede049.png) - Earned a certification on <b>2021.07.17</b><br>
+
+https://www.credly.com/badges/4c4473c4-2ff5-4e97-b348-e134625ae7ae/public_url
 
 ### 
 > __Objectives__
