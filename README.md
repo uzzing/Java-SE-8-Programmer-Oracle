@@ -1,7 +1,7 @@
 ## OCPJP (Oracle Certified Professional, Java SE 8 Programmer II)
 ### 
 <ul>
-  <li>Earned certification credential on 2021.09.04</li>
+  <li>Earned certification credential on <b>2021.09.04</b></li>
 </ul>
 
 ### 
@@ -23,7 +23,7 @@
 
 ##  OCAJP (Oracle Certified Associate, Java SE 8 Programmer I)
 <ul>
-  <li>Earned credential on 2021.07.17</li>
+  <li>Earned certification credential on <b>2021.07.17</b></li>
 </ul>
 
 ### 
